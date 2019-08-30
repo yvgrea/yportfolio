@@ -1,0 +1,39 @@
+nav{
+    background-color: blue;
+    text-decoration:none;
+}
+header{
+    background-color: blueviolet;
+    padding:50px;
+}
+.container{
+    background-color: black;
+    padding:15px;
+    height:1000px;
+    width:100%;
+}
+
+li, a{
+    text-decoration: none;
+    text-align: center;
+    width:10%;
+    list-style: none;
+}
+a:hover{
+    color: whitesmoke;
+    background-color: chartreuse;
+}
+
+.main{
+    background-color: crimson;
+    padding:15px;
+    height: 800px;
+    width:100%;
+}
+
+.footer{
+    background-color: blueviolet;
+    padding:15px;
+    height:50px;
+    width:100%;
+}
